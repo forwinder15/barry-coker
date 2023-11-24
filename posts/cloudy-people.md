@@ -1,29 +1,16 @@
 ---
-title: Cloudy people
+title: 400 years later
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.description will be used
   instead.
 date: 2023-11-24T15:11:10.469Z
 author: Barry Coker
-summary: "Cloudy people, either gloomy or glorious. "
+summary: All of God's promises are yeah and amen in Christ
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - exodus
 ---
-## ‭‭Exodus‬ ‭13:21‭-‬22‬ ‭KJV‬‬
+## ‭‭Exodus‬ ‭13:19‬ ‭KJV‬‬
 
-*\[21] And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night: \[22] he took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.*
+*\[19] And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.*
 
-![](https://2.bp.blogspot.com/-bZeZbZhqMEY/UKwmXoZd3hI/AAAAAAAAA_o/b067zypKucM/s640/PillarOfFire%2B%25282%2529.jpg)
-
-The presence of God. A light in the dark and a shade in the day. Protection from the wilderness heat and warmth for the cold nights. What an awesome picture we have here of God's constant presence with his people. He never left them or forsook them even when they grumbled and complained. Even when they rebelled. He was always there guiding them. They only moved as the cloud moved. They only went as the Lord led them. 
-
-### ‭‭Isaiah‬ ‭4:5‭-‬6‬ ‭KJV‬‬
-
-*\[5] And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence. \[6] And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.*
-
-Isaiah prophesies of the clouds returning during the millennial kingdom. Have you ever wondered what they looked like? How it must have felt like to have God manifest his care this way? I believe we will get to see them as we rain with Jesus. Awesome thought! But, better still is the abiding presence of the Holy Spirit in us. We are his tabernacle. We are the cloud of protection and a refuge for others in the wilderness.  We are the light in the dark. Providing warmth in this cold cold world.  Praise God for his ever abiding presence that he will not take away from us.
-
-Cloudy people, either gloomy or glorious. An attitude that is negative is like a cloud over the whole company. A positive attitude brings light and encouragement.  A gloomy countenance brings darkness and dread. Moses came down glowing.
+All of God's promises are yeah and amen in Christ. Joseph's prophecy was fulfilled here some 400 years later. Joseph like Jesus. Jesus made many prophecies but none greater than I will come again! God will surely visit you! Yes, he did and yes he will! Praise God he is coming to take us out of this world and to the promised land. We are no longer slaves to sin. We are on the way to the land flowing with milk and honey. Now that must have been exciting for that crowd to see Joseph's body being taken out of Egypt.
