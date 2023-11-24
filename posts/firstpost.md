@@ -7,10 +7,7 @@ date: 2019-01-01T00:00:00.000Z
 author: Barry Coker
 summary: "Cloudy people, either gloomy or glorious. "
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - Exodus
 ---
 ## ‭‭Exodus‬ ‭13:21‭-‬22‬ ‭KJV‬‬
 
