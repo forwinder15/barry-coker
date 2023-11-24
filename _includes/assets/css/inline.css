@@ -19,6 +19,8 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
+	align-items: center;
+        justify-content: center;
 	background-color: var(--background);
 }
 
@@ -50,6 +52,8 @@ header,
 main,
 footer {
 	padding: 1em;
+	align-items: center;
+	justify-content: center;
 }
 
 main {
