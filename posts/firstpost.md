@@ -16,6 +16,8 @@ tags:
 
 *\[21] And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night: \[22] he took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.*
 
+![](https://2.bp.blogspot.com/-bZeZbZhqMEY/UKwmXoZd3hI/AAAAAAAAA_o/b067zypKucM/s640/PillarOfFire%2B%25282%2529.jpg)
+
 The presence of God. A light in the dark and a shade in the day. Protection from the wilderness heat and warmth for the cold nights. What an awesome picture we have here of God's constant presence with his people. He never left them or forsook them even when they grumbled and complained. Even when they rebelled. He was always there guiding them. They only moved as the cloud moved. They only went as the Lord led them. 
 
 ### ‭‭Isaiah‬ ‭4:5‭-‬6‬ ‭KJV‬‬
