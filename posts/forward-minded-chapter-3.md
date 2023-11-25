@@ -20,13 +20,9 @@ Heavenly thinking not earthly
 
 \    Awaiting eagerly 
 
-
-
 Motivated by the prize
 
 14 I press toward the mark for the prize of the high calling of God in Christ Jesus.
-
-
 
 Mature by our preparation (seeking training from coach Jesus)
 
@@ -43,8 +39,6 @@ Mature by pattern
 Mindful of the enemy (weeping)
 
 18 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
-
-
 
 19 Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)
 
