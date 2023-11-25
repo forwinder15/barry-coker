@@ -8,7 +8,9 @@ tags:
   - Moses
   - complaining
 ---
-‭‭complaining
+[](https://www.gettyimages.com/detail/illustration/complaint-department-cartoon-royalty-free-illustration/165694510)complaining
+
+https://www.gettyimages.com/detail/illustration/complaint-department-cartoon-royalty-free-illustration/165694510
 
 Exodus‬ ‭14:10‭-‬12‬ ‭ESV‬‬
 
