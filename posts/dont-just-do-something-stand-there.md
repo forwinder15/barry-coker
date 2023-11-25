@@ -7,7 +7,6 @@ tags:
   - Exodus
   - Moses
   - OT
-  - ""
 ---
 Shut in! Stand still! See the salvation! Shut up!
 
