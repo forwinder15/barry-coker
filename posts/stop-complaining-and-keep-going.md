@@ -1,7 +1,7 @@
 ---
 title: Stop complaining and keep going!
 date: 2023-11-25T10:21:10.373Z
-author: "Barry Coker "
+author: Barry Coker
 summary: The opposite of a faithful attitude is a complaining spirit.
 tags:
   - Exodus
