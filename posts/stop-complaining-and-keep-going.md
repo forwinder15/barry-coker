@@ -10,7 +10,7 @@ tags:
 ---
 [](https://www.gettyimages.com/detail/illustration/complaint-department-cartoon-royalty-free-illustration/165694510)complaining
 
-https://www.gettyimages.com/detail/illustration/complaint-department-cartoon-royalty-free-illustration/165694510
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLv3xr1rnRDtarhuWqRJ2sRf8y_HhsUDQlg&usqp=CAU)
 
 Exodus‬ ‭14:10‭-‬12‬ ‭ESV‬‬
 
