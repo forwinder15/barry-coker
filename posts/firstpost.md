@@ -18,7 +18,7 @@ tags:
 
 The presence of God. A light in the dark and a shade in the day. Protection from the wilderness heat and warmth for the cold nights. What an awesome picture we have here of God's constant presence with his people. He never left them or forsook them even when they grumbled and complained. Even when they rebelled. He was always there guiding them. They only moved as the cloud moved. They only went as the Lord led them. 
 
-### [‭‭Isaiah‬ ‭4:5‭-‬6‬ ‭KJV‬‬](https://www.biblegateway.com/passage/?search=Isaiah+4%3A5-6&version=KJV)
+### ‭‭Isaiah‬ ‭4:5‭-‬6‬ ‭KJV‬‬
 
 *\[5] And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence. \[6] And there shall be a tabernacle for a shadow in the daytime from the heat, and for a place of refuge, and for a covert from storm and from rain.*
 
