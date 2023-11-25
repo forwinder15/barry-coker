@@ -1,5 +1,5 @@
 ---
-title: The rod of God revealed, Part 2
+title: The rod of God revealed - Part 2
 date: 2023-11-25T11:18:40.385Z
 author: Barry Coker
 summary: The Lord's leading by rod and staff
