@@ -1,5 +1,5 @@
 ---
-title: Don't just do something,  stand there!
+title: Don't just do something - stand there!
 date: 2023-11-25T10:11:34.217Z
 author: "Barry Coker "
 summary: What do I do when there seems to be no way out?
