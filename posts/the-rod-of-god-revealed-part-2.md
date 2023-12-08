@@ -3,14 +3,7 @@ title: The rod of God revealed Part 2
 date: 2023-11-25T11:18:40.385Z
 author: Barry Coker
 summary: The Lord's leading by rod and staff
-tags:
-  - post
-  - rod
-  - staff
-  - psalm
-  - psalm 23
-  - shepherd
-  - death
+tags: []
 ---
 Psalms 23:4
 
