@@ -7,13 +7,7 @@ summary: "Moses, the prophet, priest, and leader, was overloaded with
   burnout while ministering to the massive congregation. We should apply this
   pattern as we serve in our lives to avoid becoming worn away in our
   responsibilities. "
-tags:
-  - post
-  - Moses
-  - burnout
-  - Jethro
-  - minister
-  - exodus
+tags: []
 ---
 Avoiding burnout can be challenging as we are given more and more responsibility.  In Exodus 18, we are given a pattern that will help us if we apply it.
 
