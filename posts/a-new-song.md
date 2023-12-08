@@ -3,7 +3,8 @@ title: A new song
 date: 2023-11-28T10:36:25.586Z
 author: "Barry Coker "
 summary: "When God gives us a new song of victory "
-tags: []
+tags:
+  - Exodus
 ---
 ‭‭Exodus‬ ‭15:1‬ ‭KJV‬‬
 
