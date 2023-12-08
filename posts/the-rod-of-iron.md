@@ -5,13 +5,7 @@ author: "Barry Coker "
 summary: |-
   
   Jesus rules with a rod of iron
-tags:
-  - post
-  - rod
-  - Jesus
-  - staff
-  - rule
-  - shepherd
+tags: []
 ---
 Jesus, ruling with a rod of iron
 
