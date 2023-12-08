@@ -6,12 +6,7 @@ summary: What does it require for us to hear God speak? In Exodus 19 we read of
   the most amazing scene. God speaking from the glory cloud on the mountain to
   the children of Israel.  How did they prepare for such an event? They had to
   be clean, sanctified, and consecrated. How do we get ready.
-tags:
-  - post
-  - Moses
-  - Sinai
-  - cloud
-  - glory
+tags: []
 ---
 Preparing to hear from God
 
