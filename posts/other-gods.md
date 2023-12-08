@@ -5,12 +5,7 @@ author: "Barry Coker "
 summary: The first of 10 commandments. You shall have no other gods before me,
   sums up the whole law. When we truly keep this one all others are kept as a
   result. What are we putting before God?
-tags:
-  - post
-  - "10"
-  - Moses
-  - gods
-  - exodus
+tags: []
 ---
 ‭‭Other gods
 
