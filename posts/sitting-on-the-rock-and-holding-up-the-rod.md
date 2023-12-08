@@ -5,14 +5,7 @@ author: "Barry Coker "
 summary: Winning the battles of life require us to rest in the immovability of
   our Rock, the power of the Rod (God's word), and the support of our brothers
   and sisters in Christ.
-tags:
-  - post
-  - Moses
-  - Aaron
-  - Hur
-  - rock
-  - rod
-  - winning
+tags: []
 ---
 Sitting on a Rock and holding up a Rod
 
