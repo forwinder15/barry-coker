@@ -4,12 +4,7 @@ date: 2023-12-02T09:50:42.149Z
 author: "Barry Coker "
 summary: Without manna from heaven we will die in the wilderness. We need the
   true manna everyday. We need Jesus
-tags:
-  - post
-  - manna
-  - Moses
-  - Jesus
-  - word
+tags: []
 ---
 I need that manna.
 
