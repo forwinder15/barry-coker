@@ -3,12 +3,7 @@ title: "Who is a good person? "
 date: 2023-11-25T10:53:48.565Z
 author: "Barry Coker "
 summary: Micah's definition of what it means to be a good person
-tags:
-  - post
-  - Micah
-  - just
-  - humility
-  - good person
+tags: []
 ---
 I started reading the condemning prophecy of Micah. It is filled with strong language and severe judgement and  beautiful pictures of the millennial reign. I didn't feel led to dive deeply into the near and far fulfilment of God's word to Judah and Samaria through Micah. Then I came to this: He hath shewed thee, O man, what is good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?
 
