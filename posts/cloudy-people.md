@@ -6,8 +6,7 @@ metaDescription: This is a sample meta description. If one is not present in
 date: 2023-11-24T15:11:10.469Z
 author: Barry Coker
 summary: All of God's promises are yeah and amen in Christ
-tags:
-  - exodus
+tags: []
 ---
 ## ‭‭Exodus‬ ‭13:19‬ ‭KJV‬‬
 
