@@ -4,12 +4,7 @@ date: 2023-11-27T10:23:40.660Z
 author: "Barry Coker "
 summary: When the Lord causes your enemy to fail in their attempts to destroy
   you and put you back in bondage, your faith is never stronger.
-tags:
-  - post
-  - Moses
-  - Red
-  - victory
-  - enemy
+tags: []
 ---
 ‭‭When God makes the wheels fall off.
 
