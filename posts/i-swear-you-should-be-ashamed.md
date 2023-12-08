@@ -4,13 +4,7 @@ date: 2023-12-08T11:13:59.855Z
 author: "Barry Coker "
 summary: "What is it to take the Lord's name in vain? How do we break the 3rd
   commandment and bring shame on ourselves and dishonor the name of God? "
-tags:
-  - posts
-  - swearing
-  - cursing
-  - exodus
-  - vows
-  - commandments
+tags: []
 ---
 I swear, you ought to be ashamed. 
 
