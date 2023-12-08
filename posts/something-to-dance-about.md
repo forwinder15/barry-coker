@@ -5,10 +5,7 @@ author: "Barry Coker "
 summary: "When God does something wonderful in our lives does it cause us to
   express our gratitude openly? Do we turn loose, singing, dancing, banging
   cymbals? "
-tags:
-  - Exodus
-  - dancing
-  - Miriam
+tags: []
 ---
 Something to dance about. 
 
