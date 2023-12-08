@@ -3,12 +3,7 @@ title: Stuck - stay out of the mud
 date: 2023-11-26T10:40:13.404Z
 author: "Barry Coker "
 summary: We are never safer than when we stick close to God
-tags:
-  - post
-  - exodus
-  - Moses
-  - mud
-  - stuck
+tags: []
 ---
 Stay out of the mud
 
