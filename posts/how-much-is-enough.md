@@ -6,8 +6,7 @@ summary: Are we satisfied with what God gives? His presence,  his power, his
   provisions, or does greed cause us to take more than we need? A proper
   perspective on material things will lead to contentment. Greed will make our
   lives stink.
-tags:
-  - post
+tags: []
 ---
 How much is enough?
 
