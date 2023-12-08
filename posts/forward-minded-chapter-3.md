@@ -5,8 +5,7 @@ author: Barry Coker
 summary: |+
   Forward minded chapter 3
 
-tags:
-  - ChristianThinking
+tags: []
 ---
 Motivated thinking press forward
 
