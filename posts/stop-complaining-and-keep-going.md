@@ -5,8 +5,6 @@ author: Barry Coker
 summary: The opposite of a faithful attitude is a complaining spirit.
 tags: []
 ---
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLv3xr1rnRDtarhuWqRJ2sRf8y_HhsUDQlg&usqp=CAU)
-
 Exodus‬ ‭14:10‭-‬12‬ ‭ESV‬‬
 
 \[10] When Pharaoh drew near, the people of Israel lifted up their eyes, and behold, the Egyptians were marching after them, and they feared greatly. And the people of Israel cried out to the Lord. \[11] They said to Moses, “Is it because there are no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us in bringing us out of Egypt? \[12] Is not this what we said to you in Egypt: ‘Leave us alone that we may serve the Egyptians’? For it would have been better for us to serve the Egyptians than to die in the wilderness. 
