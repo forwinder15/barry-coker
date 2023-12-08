@@ -6,7 +6,7 @@ summary: When God lead us to a place of bitterness are we going to complain or
   trust and obey?
 tags:
   - Marah
-  - complainin
+  - complaining
   - bitter
   - Jehovah-Rapha
 ---
