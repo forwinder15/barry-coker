@@ -4,11 +4,7 @@ date: 2023-11-30T11:13:08.562Z
 author: Barry Coker
 summary: When God lead us to a place of bitterness are we going to complain or
   trust and obey?
-tags:
-  - Marah
-  - complaining
-  - bitter
-  - Jehovah-Rapha
+tags: []
 ---
  "When God brings us to a time of testing or we going to be bitter or
 
