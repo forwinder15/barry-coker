@@ -6,14 +6,7 @@ summary: God saves us inspite of our hard hearts. He struck the rock, Jesus,
   while we were still sinning and provided living water for our thirsty souls.
   Even as we doubt he is providing for us. Even though, we chide and tempt him
   his living water is available.
-tags:
-  - post
-  - Moses
-  - rock
-  - water
-  - Meribah
-  - Massah
-  - Horeb
+tags: []
 ---
 ‭‭Water from the rock
 
