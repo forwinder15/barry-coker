@@ -5,8 +5,7 @@ author: Barry Coker
 summary: To bow down to any idol is to hate God. To love him is to obey him.
   There is no provision made for neutrality.  We must choose who we will serve
   today and every day.
-tags:
-  - post
+tags: []
 ---
 No Middle ground.
 
