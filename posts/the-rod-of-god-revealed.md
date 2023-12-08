@@ -3,13 +3,7 @@ title: The rod of God revealed
 date: 2023-11-25T11:01:55.928Z
 author: Barry Coker
 summary: An indepth study of the rod in scripture. Part one.
-tags:
-  - post
-  - rod
-  - staff
-  - Moses
-  - word
-  - Micah
+tags: []
 ---
 Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.
 
